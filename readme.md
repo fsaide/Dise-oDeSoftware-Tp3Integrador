@@ -8,7 +8,7 @@ Se desarrolló una skill con el objetivo de orientar a la IA sobre cómo respond
 
 Además, se le proporcionó todo el material bibliográfico y teórico brindado por la cátedra, con el objetivo de que la IA pudiera trabajar con un mayor contexto y fundamentar sus respuestas a partir de los contenidos correspondientes a la materia.
 
-En el archivo `.zip` se incluye todo el material utilizado durante el desarrollo y prueba de la skill: la propia skill, el prompt utilizado para indicarle a la IA cómo emplearla y el material proporcionado por la cátedra.
+En este `Repositorio` se incluye todo el material utilizado durante el desarrollo y prueba de la skill, la propia skill, el prompt utilizado para indicarle a la IA cómo emplearla y el material proporcionado por la cátedra.
 
 También se adjunta el enlace al chat en el que se realizó la prueba, por si resulta de utilidad para revisar el proceso seguido y observar cómo se aplicó y evaluó la skill.
 
